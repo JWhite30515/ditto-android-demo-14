@@ -11,6 +11,7 @@ export function SkipCases() {
       </p>
       <p>Price list</p>
       <p>Store hours</p>
+      <p>Open daily</p>
     </div>
   );
 }
